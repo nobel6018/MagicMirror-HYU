@@ -1,0 +1,34 @@
+{
+	"LOADING": "Loading &hellip;",
+
+	"TODAY": "Today",
+	"TOMORROW": "Tomorrow",
+	"DAYAFTERTOMORROW": "In 2 days",
+	"RUNNING": "Ends in",
+	"EMPTY": "No upcoming events.",
+
+	"WEEK": "Week {weekNumber}",
+
+	"N": "북풍",
+	"NNE": "북동풍",
+	"NE": "북동풍",
+	"ENE": "북동풍",
+	"E": "동풍",
+	"ESE": "남동풍",
+	"SE": "남동풍",
+	"SSE": "남동풍",
+	"S": "남풍",
+	"SSW": "남서풍",
+	"SW": "남서풍",
+	"WSW": "남서풍",
+	"W": "서풍",
+	"WNW": "남서풍",
+	"NW": "남서풍",
+	"NNW": "남서풍",
+
+	"UPDATE_NOTIFICATION": "MagicMirror² update available.",
+	"UPDATE_NOTIFICATION_MODULE": "Update available for {MODULE_NAME} module.",
+	"UPDATE_INFO": "The current installation is {COMMIT_COUNT} behind on the {BRANCH_NAME} branch.",
+	
+	"FEELS": "체감온도"
+}
